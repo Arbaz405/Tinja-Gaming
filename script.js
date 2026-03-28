@@ -4,7 +4,8 @@ const gamesData = [
     { name: "Resident Evil 9", url: "Resident.html" },
     { name: "Indiana Jones", url: "Indiana.html" },
     { name: "Free Fire Tips", url: "free-fire.html" }, // Agar page nahi hai toh # rehne dena
-    { name: "Asphalt 9", url: "#" }
+    { name: "Asphalt 9", url: "#" },
+    { name: "Marvel's Wolverine", url: "#" } 
 ];
 
 const searchInput = document.getElementById('searchInput');
