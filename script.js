@@ -6,7 +6,8 @@ const gamesData = [
     { name: "Marvel's Wolverine", url: "marvel.html" },  // Agar page nahi hai toh # rehne dena
     { name: "StarRupture", url: "star.html"},
     { name: "007 First Light", url: "007.html"},
-    { name: "Crimson Desert", url: "crimson.html"}
+    { name: "Crimson Desert", url: "crimson.html"},
+    { name: "Expeditions", url: "expeditions.html"}
 ];
 
 const searchInput = document.getElementById('searchInput');
